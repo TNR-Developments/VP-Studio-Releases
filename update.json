@@ -1,8 +1,8 @@
 {
-    "version":  "0.32",
-    "url":  "https://github.com/TNR-Developments/VP-Studio-Releases/releases/download/v0.32/VpStudio-Setup.exe",
-    "sha256":  "FB2973524CA7D80AB68E5FE40B82F7E5F67AF3762A01BE2FCC11B41DBCD5B99B",
-    "size":  136751223,
-    "released":  "2026-07-31",
-    "notes":  "Test of the update path.\n\nFunctionally identical to 0.31 - published so the in-app update notice can be seen end to end on a real installation. Nothing in the printing or design behaviour has changed.\n\nIf you are reading this in the update window: clicking Install now downloads this installer, checks it against the published checksum, and runs it. VP Studio closes so its files can be replaced.\r\n"
+    "version":  "0.42",
+    "url":  "https://github.com/TNR-Developments/VP-Studio-Releases/releases/download/v0.42/VpStudio-Setup.exe",
+    "sha256":  "A2BEF663BD63AEC5F434534DA6791C02FE956AADF99307742DCC355B0EE5C331",
+    "size":  136763018,
+    "released":  "2026-08-01",
+    "notes":  "Reprint flags can now be drag-filled down the record grid (drag from a Reprint checkbox). Help menu gains Reinstall previous version after future updates. The band placement window shows the true piece size with a horizontal ruler, and says when a head is not needed for a piece instead of giving it a meaningless mount position. High-DPI layout fixes in the tray windows."
 }
