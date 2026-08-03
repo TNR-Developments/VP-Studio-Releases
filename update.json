@@ -1,8 +1,8 @@
 {
-    "version":  "0.42",
-    "url":  "https://github.com/TNR-Developments/VP-Studio-Releases/releases/download/v0.42/VpStudio-Setup.exe",
-    "sha256":  "A2BEF663BD63AEC5F434534DA6791C02FE956AADF99307742DCC355B0EE5C331",
-    "size":  136763018,
-    "released":  "2026-08-01",
-    "notes":  "Reprint flags can now be drag-filled down the record grid (drag from a Reprint checkbox). Help menu gains Reinstall previous version after future updates. The band placement window shows the true piece size with a horizontal ruler, and says when a head is not needed for a piece instead of giving it a meaningless mount position. High-DPI layout fixes in the tray windows."
+    "version":  "0.61",
+    "url":  "https://github.com/TNR-Developments/VP-Studio-Releases/releases/download/v0.61/VpStudio-Setup.exe",
+    "sha256":  "403F6873E80A5223CE90AC34D2BF22C2308E40B777703B4F5F9528AC3B25CA54",
+    "size":  173188309,
+    "released":  "2026-08-03",
+    "notes":  "VP Studio 0.61 — everything since 0.42.\n\nNew: Home tab (recent jobs + your jobs folders, with previews); a real Settings window (File \u003e Settings) covering display, jobs folder, startup, printing, batch defaults, ink cost, media sizes, updates and license; machine-config export/import (one .vpconfig file moves sizes, profiles and settings to another PC); smart alignment guides on the canvas; media sizes managed from one shared catalog everywhere.\n\nRefreshed look across the suite: toolbar, properties panel, Print page, Data page, navigation tabs, placement popup, menus, and a new app icon.\n\nFixes: belt-speed gauge no longer freezes during over-speed (shows \"(last)\" when a reading is stale); canceling a job in the printer queue is caught in more places and escalates to a full abort if the popup already moved on.\r\n"
 }
