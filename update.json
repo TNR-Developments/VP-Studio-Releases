@@ -1,8 +1,8 @@
 {
-    "version":  "0.70",
-    "url":  "https://github.com/TNR-Developments/VP-Studio-Releases/releases/download/v0.70/VpStudio-Setup.exe",
-    "sha256":  "3A23D6EA3D60385C0C47A509979F40F0E4304D4A06E8BB8F16C21D0B4C4B0437",
-    "size":  174113585,
-    "released":  "2026-08-04",
-    "notes":  "New: a built-in HELP system — press F1 anywhere (Settings included) and VP Studio opens help on\nthe screen you\u0027re standing on, with a topic tree, instant offline search, and real screenshots.\nThe manual and the help window share the same figures.\n\nKeyboard shortcuts throughout, remappable in Settings ▸ Shortcuts: single-letter tool keys on\nthe Studio page (V select, T text, L line, I image, B barcode, X box, P purge setup), F5–F8 to\njump between pages, zoom and fit keys, and Space on the Print page to start the run behind an\nare-you-sure (Space again confirms, Esc cancels). Pick your startup page (Home, Studio, Data or\nPrint) in Settings — start on Print with \"open the last job\" and reprinting yesterday\u0027s job is\nlaunch, Space, Space.\n\nThe installer now shows this PC\u0027s licensing status in plain words (edition, expiry, Machine ID),\nexplains the editions, and can take a license key during installation — or skip it and run in\nmock mode until a key arrives. When going back to an older version, the installer now says so\n(\"Go back to …\") instead of calling it an update.\n\nLicensing is hardened against clock tampering: keys carry their issue date, and the suite tracks\nthe latest date the machine has reached — setting the system clock back no longer extends a\ntimed license, and a date from before the key existed is flagged until fixed. (Existing keys\nkeep working.)"
+    "version":  "0.72",
+    "url":  "https://github.com/TNR-Developments/VP-Studio-Releases/releases/download/v0.72/VpStudio-Setup.exe",
+    "sha256":  "2D531832AED092C6485633D8B5D9506BF58F71D7A811578406FD573BE7FFFE06",
+    "size":  174168656,
+    "released":  "2026-08-07",
+    "notes":  "VP Studio is now digitally signed: the installer and every program in the suite carry a\nverified \"TNR Developments, LLC.\" signature, so Windows shows the company name at install\ninstead of an unknown-publisher warning.\n\nFixes for 150% display scaling: the Print page\u0027s record list no longer shows oversized rows,\nand the Data page\u0027s field panel no longer clips or overlaps its text. On very narrow windows\nthe printer-status dot steps aside instead of covering the Print tab."
 }
