@@ -1,8 +1,8 @@
 {
-    "version":  "0.126",
-    "url":  "https://github.com/TNR-Developments/VP-Studio-Releases/releases/download/v0.126/VpStudio-Setup.exe",
-    "sha256":  "2997B0C5ECC826EA3C69D6C1410CC1AE717A31A7B0B757A5AF2E3FA1749A436F",
-    "size":  175599784,
+    "version":  "0.128",
+    "url":  "https://github.com/TNR-Developments/VP-Studio-Releases/releases/download/v0.128/VpStudio-Setup.exe",
+    "sha256":  "8E7FFC02D72A21ACEB729797377947A709157FE9584CA6C5AED3B053C5841C23",
+    "size":  175601712,
     "released":  "2026-08-31",
-    "notes":  "Fixes the dealer name drawing at the wrong size until the first tab click, keeps the layout audit working on unlicensed PCs, and stops the Diagnostics footer clipping long dealer contact lines."
+    "notes":  "The dealer logo now fills the dealer tab edge to edge instead of drawing as a small inset image, keeps its proportions, and scales more smoothly."
 }
