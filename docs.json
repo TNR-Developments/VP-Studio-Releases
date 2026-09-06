@@ -1,6 +1,6 @@
 {
     "updated":  "2026-09-06",
-    "suite":  "0.145",
+    "suite":  "0.144",
     "docs":  [
                  {
                      "id":  "manual",
@@ -18,8 +18,8 @@
                      "title":  "VP Studio Sales Sheet",
                      "file":  "VP-Studio-Sales-Sheet.pdf",
                      "url":  "https://raw.githubusercontent.com/TNR-Developments/VP-Studio-Releases/main/docs/VP-Studio-Sales-Sheet.pdf",
-                     "version":  "0.145",
-                     "revision":  1,
+                     "version":  "0.144",
+                     "revision":  2,
                      "date":  "2026-09-06",
                      "sha256":  "EC914FD02FFFB992360B80AA112C5D188A129FB24E27A957B484B2B570088C9B",
                      "bytes":  87894
@@ -29,8 +29,8 @@
                      "title":  "VP Studio Suite Features",
                      "file":  "VP-Studio-Suite-Features.pdf",
                      "url":  "https://raw.githubusercontent.com/TNR-Developments/VP-Studio-Releases/main/docs/VP-Studio-Suite-Features.pdf",
-                     "version":  "0.145",
-                     "revision":  1,
+                     "version":  "0.144",
+                     "revision":  2,
                      "date":  "2026-09-06",
                      "sha256":  "26BFFCFC6550BB8B473CA7E529A1F30E687A92C44E4CD16984E4FEE771A8C3FB",
                      "bytes":  87678
@@ -40,7 +40,7 @@
                      "title":  "VP Studio Windows Printer",
                      "file":  "VP-Studio-Driver-Sheet.pdf",
                      "url":  "https://raw.githubusercontent.com/TNR-Developments/VP-Studio-Releases/main/docs/VP-Studio-Driver-Sheet.pdf",
-                     "version":  "0.145",
+                     "version":  "0.144",
                      "revision":  1,
                      "date":  "2026-09-06",
                      "sha256":  "61AC75601C6616B86C85AE7D611D1C2E0EC2AE254CB5658F7C6CC521B53CA841",
