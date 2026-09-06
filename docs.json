@@ -1,0 +1,39 @@
+{
+    "updated":  "2026-09-06",
+    "suite":  "0.144",
+    "docs":  [
+                 {
+                     "id":  "manual",
+                     "title":  "VP Studio Manual",
+                     "file":  "VP-Studio-Manual.pdf",
+                     "url":  "https://raw.githubusercontent.com/TNR-Developments/VP-Studio-Releases/main/docs/VP-Studio-Manual.pdf",
+                     "version":  "0.144",
+                     "revision":  1,
+                     "date":  "2026-09-06",
+                     "sha256":  "EB663747FDFB1F84BABCA075E6755A9EF4DF4F9E4E90793DE6D6374F2E374F7D",
+                     "bytes":  962258
+                 },
+                 {
+                     "id":  "sales",
+                     "title":  "VP Studio Sales Sheet",
+                     "file":  "VP-Studio-Sales-Sheet.pdf",
+                     "url":  "https://raw.githubusercontent.com/TNR-Developments/VP-Studio-Releases/main/docs/VP-Studio-Sales-Sheet.pdf",
+                     "version":  "0.144",
+                     "revision":  1,
+                     "date":  "2026-09-06",
+                     "sha256":  "E42B8CFE8AFD7A5C5089FFAFBAA6F57BBBAB3CBD730694A20AC8E994812A4FAA",
+                     "bytes":  69917
+                 },
+                 {
+                     "id":  "features",
+                     "title":  "VP Studio Suite Features",
+                     "file":  "VP-Studio-Suite-Features.pdf",
+                     "url":  "https://raw.githubusercontent.com/TNR-Developments/VP-Studio-Releases/main/docs/VP-Studio-Suite-Features.pdf",
+                     "version":  "0.144",
+                     "revision":  1,
+                     "date":  "2026-09-06",
+                     "sha256":  "1D4791986B8B912A387B6C42E222643B6BC8C354C030F7F2BA8BE0EB7BC28F84",
+                     "bytes":  101954
+                 }
+             ]
+}
