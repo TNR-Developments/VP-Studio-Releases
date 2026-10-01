@@ -1,8 +1,8 @@
 {
-    "version":  "0.174",
-    "url":  "https://github.com/TNR-Developments/VP-Studio-Releases/releases/download/v0.174/VpStudio-Setup.exe",
-    "sha256":  "E0E8D2E0BF5AB4C6FE15134C4CB91C64B991656C0005471AA53A64093B9BD0F9",
-    "size":  176980416,
-    "released":  "2026-09-30",
-    "notes":  "**The built-in help is current.** F1 help gains two topics — Head alignment (the alignment window, the print-scan-apply loop, why a value says \"wait\", Purge…, refused scans, the logs) and Machine run automation (the machine block, manual control, run automation and the start mode, pause and abort, faults and history) — and the Data page, Settings, Running a job, Purging and Troubleshooting topics are brought up to date with fresh screenshots. The manual (Revision 3.2) and the product sheets are updated to match on the downloads page.\r\n\r\n**Data page.** With no data loaded, the source band offers Open data… instead of Reload, Replace… and Unload — which used to show anyway, and Unload asked \"are you sure\" about nothing."
+    "version":  "0.175",
+    "url":  "https://github.com/TNR-Developments/VP-Studio-Releases/releases/download/v0.175/VpStudio-Setup.exe",
+    "sha256":  "72710B0529188CB793C105973CE5883C4BADC1D6D104C10A972A606CB88E68DF",
+    "size":  177017056,
+    "released":  "2026-10-01",
+    "notes":  "**Maintenance release.** Internal housekeeping only — nothing changes in printing, the pages or your settings, and there is nothing to do after installing."
 }
