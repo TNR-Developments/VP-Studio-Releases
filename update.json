@@ -1,8 +1,8 @@
 {
-    "version":  "0.179",
-    "url":  "https://github.com/TNR-Developments/VP-Studio-Releases/releases/download/v0.179/VpStudio-Setup.exe",
-    "sha256":  "DE984DB8C5AC525D6838059E14A0A0BE1500A944861CBEDE567BE98BD50EEFB4",
-    "size":  177049992,
+    "version":  "0.181",
+    "url":  "https://github.com/TNR-Developments/VP-Studio-Releases/releases/download/v0.181/VpStudio-Setup.exe",
+    "sha256":  "0FB3B1A43CEA98780C57CA75C5B193CAE4EAD7F36A513BFDC75A069F044E5967",
+    "size":  177050520,
     "released":  "2026-10-06",
-    "notes":  "**Selecting and drawing objects is quick again.** Clicking an object on the design page, or starting to draw a text box or barcode, used to pause for one to three seconds on high-resolution displays before the properties panel appeared and the drag could begin. It now responds right away; dialogs open a little faster too."
+    "notes":  "**Drawing starts the moment you press the button, and the properties panel keeps up.** Selecting an object or starting to draw one no longer waits for anything: the panel on the right now switches in a few hundredths of a second instead of rebuilding itself on every click, so it is there the moment you let go. Double-clicking a tool button (Text, Barcode, Image, Box, Line, Indicia) places one of a reasonable size straight on the page, below whatever is already there.\r\n\r\n**Barcodes are the right size from the start.** A new barcode, or one whose type you change, is sized to its specification instead of stretching to the box you drew: an Intelligent Mail barcode comes out at 22 bars per inch and 0.145 in tall, POSTNET and PLANET at 0.125 in, UPC/EAN at 100% magnification, 2D codes square. Resize the box and the bars keep their pitch."
 }
