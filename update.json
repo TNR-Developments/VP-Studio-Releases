@@ -1,8 +1,8 @@
 {
-    "version":  "0.175",
-    "url":  "https://github.com/TNR-Developments/VP-Studio-Releases/releases/download/v0.175/VpStudio-Setup.exe",
-    "sha256":  "72710B0529188CB793C105973CE5883C4BADC1D6D104C10A972A606CB88E68DF",
-    "size":  177017056,
-    "released":  "2026-10-01",
-    "notes":  "**Maintenance release.** Internal housekeeping only — nothing changes in printing, the pages or your settings, and there is nothing to do after installing."
+    "version":  "0.178",
+    "url":  "https://github.com/TNR-Developments/VP-Studio-Releases/releases/download/v0.178/VpStudio-Setup.exe",
+    "sha256":  "AAD217CD72304607C5340AC4DAF2AF85DF78B9A07830653D79164B6D72ED1E99",
+    "size":  177050168,
+    "released":  "2026-10-06",
+    "notes":  "**A data file with the same column name twice now opens.** It used to stop with “a column named … already belongs to this data table”; the repeated columns are now named VIS, VIS (2) and so on, and both keep their values.\r\n\r\n**Errors are remembered.** Every error VP Studio, the companion or the print service shows or hits — a print that would not start, a machine fault, a crash — is now written to an error log on the PC with when and where it happened, so it can be looked at later instead of being gone when the box is closed. The log travels with Help ▸ Send diagnostics…. By default each error is also reported to your dealer and TNR Developments as it happens (the error, where it occurred and the last lines of the print service log — never your jobs, data or address lists), so support can see it before you call; Settings ▸ Updates turns that off. The print service log now carries the date on every line and no longer repeats itself while the printer is switched off.\r\n\r\n**Send diagnostics in one click.** Help ▸ Send diagnostics… gathers the print service log, the machine\u0027s event history, the newest alignment reports and the configuration files from this PC and sends them to your dealer and TNR Developments, with a note from you — so a support question can be answered without a visit. You see exactly what goes before pressing Send; your jobs, data and address lists never do. A copy can be saved to a file instead.\r\n\r\n**Every build is now test-printed before it ships.** The installer is only built after the software has printed the sample job four ways on a simulated printer and every piece matched the known-good output dot for dot."
 }
