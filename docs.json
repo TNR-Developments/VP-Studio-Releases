@@ -1,17 +1,17 @@
 {
-    "updated":  "2026-09-30",
-    "suite":  "0.174",
+    "updated":  "2026-11-16",
+    "suite":  "0.236",
     "docs":  [
                  {
                      "id":  "manual",
                      "title":  "VP Studio Manual",
                      "file":  "VP-Studio-Manual.pdf",
                      "url":  "https://raw.githubusercontent.com/TNR-Developments/VP-Studio-Releases/main/docs/VP-Studio-Manual.pdf",
-                     "version":  "0.174",
+                     "version":  "0.236",
                      "revision":  1,
-                     "date":  "2026-09-30",
-                     "sha256":  "FF6CEDE270248A2E5BCE9F109D1E826B4FF5AC490CE7AAA73979E6F072259A26",
-                     "bytes":  1570415
+                     "date":  "2026-11-16",
+                     "sha256":  "E08CC518823F99A9FE7CCA50C80CC21E8A132900F524F5DD5068BA27FC773081",
+                     "bytes":  1765680
                  },
                  {
                      "id":  "sales",
